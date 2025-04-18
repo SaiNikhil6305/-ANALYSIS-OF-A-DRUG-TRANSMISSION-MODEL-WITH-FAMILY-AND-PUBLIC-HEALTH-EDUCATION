@@ -1,3 +1,12 @@
+<br>
+ABSTRACT<br>
+The spread of drug usage in communities poses a significant challenge to public health and
+social well-being. This study presents a mathematical drug transmission model that
+incorporates both family education and public health education as key intervention strategies to
+control drug abuse. The model is formulated using differential equations that represent different
+population groups, including susceptible individuals, drug users, and those in rehabilitation<br>
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
